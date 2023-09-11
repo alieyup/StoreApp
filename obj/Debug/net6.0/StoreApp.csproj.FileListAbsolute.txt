@@ -23,3 +23,5 @@ C:\Users\ab129050\source\repos\alieyup\BtkMvc\Store\StoreApp\obj\Debug\net6.0\re
 C:\Users\ab129050\source\repos\alieyup\BtkMvc\Store\StoreApp\obj\Debug\net6.0\StoreApp.pdb
 C:\Users\ab129050\source\repos\alieyup\BtkMvc\Store\StoreApp\obj\Debug\net6.0\StoreApp.genruntimeconfig.cache
 C:\Users\ab129050\source\repos\alieyup\BtkMvc\Store\StoreApp\obj\Debug\net6.0\ref\StoreApp.dll
+C:\Users\ab129050\source\repos\alieyup\BtkMvc\Store\StoreApp\obj\Debug\net6.0\StoreApp.RazorAssemblyInfo.cache
+C:\Users\ab129050\source\repos\alieyup\BtkMvc\Store\StoreApp\obj\Debug\net6.0\StoreApp.RazorAssemblyInfo.cs
